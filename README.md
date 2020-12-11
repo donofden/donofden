@@ -21,4 +21,6 @@ Right now, I'm a technology freak who really loves coding. I'm really passionate
 What I believe in is
 > We live in a world where robots can drive a car, so we shouldn't just write code, we should write elegant code.
 
-| [![Aravind Kumar's github stats](https://github-readme-stats.vercel.app/api?username=donofden&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/donofden/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donofden&hide=javascript,html,css&langs_count=8&layout=compact)](https://github.com/donofden/github-readme-stats) |
+[![Aravind Kumar's github stats](https://github-readme-stats.vercel.app/api?username=donofden&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/donofden/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donofden&hide=javascript,html,css&langs_count=8&layout=compact)](https://github.com/donofden/github-readme-stats)
